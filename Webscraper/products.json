@@ -1,0 +1,16 @@
+﻿{
+  "Ryzen 9 5900X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH",
+    "AMD": "https://www.amd.com/en/direct-buy/5450881500/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1598373-REG/amd_100_100000061wof_ryzen_9_5900x_3_7.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664"
+  },
+  "Ryzen 7 5800X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK",
+    "AMD": "https://www.amd.com/en/direct-buy/5450881600/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler/6439000.p?skuId=6439000",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1598376-REG/amd_100_100000063wof_ryzen_7_5800x_3_8.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665"
+  }
+}

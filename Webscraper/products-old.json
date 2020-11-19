@@ -1,0 +1,30 @@
+﻿{
+  "Ryzen 7 3700X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-3800X-16-Thread-Processor/dp/B07SXMZLPJ",
+    "AMD": "https://www.amd.com/en/direct-buy/5335621300/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-7-3700x-3rd-generation-8-core-16-thread-3-6-ghz-4-4-ghz-max-boost-socket-am4-unlocked-desktop-processor/6356277.p?skuId=6356277",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1485449-REG/amd_100_100000071box_ryzen_7_3700x_3_6.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-7-3700x/p/N82E16819113567"
+  },
+  "Ryzen 9 5900X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-5900X-24-Thread-Processor/dp/B08164VTWH",
+    "AMD": "https://www.amd.com/en/direct-buy/5450881500/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1598373-REG/amd_100_100000061wof_ryzen_9_5900x_3_7.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664"
+  },
+  "Ryzen 7 5800X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-5800X-16-Thread-Processor/dp/B0815XFSGK",
+    "AMD": "https://www.amd.com/en/direct-buy/5450881600/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler/6439000.p?skuId=6439000",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1598376-REG/amd_100_100000063wof_ryzen_7_5800x_3_8.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665"
+  },
+  "Ryzen 5 5600X": {
+    "Amazon": "https://www.amazon.com/AMD-Ryzen-5600X-12-Thread-Processor/dp/B08166SLDF",
+    "AMD": "https://www.amd.com/en/direct-buy/5450881700/us",
+    "Best Buy": "https://www.bestbuy.com/site/amd-ryzen-5-5600x-4th-gen-6-core-12-threads-unlocked-desktop-processor-with-wraith-stealth-cooler/6438943.p?skuId=6438943",
+    "B&H Photo Video": "https://www.bhphotovideo.com/c/product/1598377-REG/amd_100_100000065box_ryzen_5_5600x_3_7.html",
+    "Newegg": "https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666"
+  }
+}
