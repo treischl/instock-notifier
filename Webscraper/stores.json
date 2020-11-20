@@ -1,22 +1,29 @@
 {
-  "Amazon": {
-    "inStock": "input#add-to-cart-button",
-    "noStock": "#availability > span.a-size-medium.a-color-price"
-  },
-  "AMD": {
-    "inStock": "button.btn-shopping-cart",
-    "noStock": "p.product-out-of-stock"
-  },
-  "Best Buy": {
-    "inStock": "button.add-to-cart-button.btn-primary",
-    "noStock": "button.add-to-cart-button.btn-disabled"
-  },
-  "B&H Photo Video": {
-    "inStock": "button[data-selenium='addToCartButton']",
-    "noStock": "button[data-selenium='notifyAvailabilityButton']"
-  },
-  "Newegg": {
-    "inStock": "#ProductBuy .qty-box",
-    "noStock": "#ProductBuy span.btn.btn-message.btn-wide"
-  }
+  "stores": [
+    {
+      "name": "Amazon",
+      "inStock": "input#add-to-cart-button",
+      "noStock": "#availability > span.a-size-medium.a-color-price"
+    },
+    {
+      "name": "AMD",
+      "inStock": "button.btn-shopping-cart",
+      "noStock": "p.product-out-of-stock"
+    },
+    {
+      "name": "Best Buy",
+      "inStock": "button.add-to-cart-button.btn-primary",
+      "noStock": "button.add-to-cart-button.btn-disabled"
+    },
+    {
+      "name": "B&H Photo Video",
+      "inStock": "button[data-selenium='addToCartButton']",
+      "noStock": "button[data-selenium='notifyAvailabilityButton']"
+    },
+    {
+      "name": "Newegg",
+      "inStock": "#ProductBuy .qty-box",
+      "noStock": "#ProductBuy span.btn.btn-message.btn-wide"
+    }
+  ]
 }
